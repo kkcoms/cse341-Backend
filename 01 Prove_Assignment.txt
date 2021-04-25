@@ -1,0 +1,26 @@
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/kkcoms/cse341-Backend
+
+3. Briefly list and describe the elements of the application that are functioning. 
+Returning a greeting message on the "/" route
+Returning a list of dummy users on the "/users" route
+Adding a username
+Displaying new username
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+I tried setting up Heroku for continuous deployment but wasn't able to make it work for this lesson.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+The coolest learning was knowing how each POST method can be set and how to initialize a server using NodeJS
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+To be honest, I feel like I'm learning a lot. the content is really well explained, and it is challenging enough to get hands-on experience
+
+7. Please select the category you feel best describes your assignment:
+
+   4 - Meets requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+My assignment meets the requirements and builds on top of the code written on the video tutorial. It doesn't attempt anything fancier as I'd like, but it handles the routing and correctly.
